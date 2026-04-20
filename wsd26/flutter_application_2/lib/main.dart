@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Kobayashi App',
+      title: 'Hisakata App',
       theme: ThemeData(colorScheme: .fromSeed(seedColor: Colors.lightGreen)),
       home: const MyHomePage(title: 'Flutter Demo Home Page'),
     );
