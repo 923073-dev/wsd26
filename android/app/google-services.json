@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "527530510706",
+    "project_id": "hokkecounter",
+    "storage_bucket": "hokkecounter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527530510706:android:f6eb8e1cc24d9e9345f5eb",
+        "android_client_info": {
+          "package_name": "com.example.wsd26"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrF7XnxcYE8NpTAohnk0XQQZL8hSRAD-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
